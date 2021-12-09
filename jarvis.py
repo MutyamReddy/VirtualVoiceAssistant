@@ -104,7 +104,7 @@ if __name__=="__main__":
             codepath = "C:\\Users\\Bejjanki KalyanReddy\\AppData\\Local\\WhatsApp\\WhatsApp.exe"
             os.startfile(codepath)
         elif 'who are you' in query:
-            speak("I am Friday , Female voice assistant created by kalyan reddy , i was written in python , i can do severeal tasks in PC.")
+            speak("I am Friday , Female voice assistant created by Mutyam Reddy , i was written in python , i can do severeal tasks in PC.")
         elif 'game development' in query:
             codepath = "C:\\Program Files\\Unity Hub\\Unity Hub.exe"
             os.startfile(codepath)
